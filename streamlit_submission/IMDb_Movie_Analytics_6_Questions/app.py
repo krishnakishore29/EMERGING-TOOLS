@@ -459,7 +459,7 @@ def render_sidebar(raw_df: pd.DataFrame | None, source: str) -> str:
         st.markdown(
             """
             <div class="student-footer">
-                <div class="student-name">V. P KRISHNA KISHORE</div>
+                <div class="student-name"> P KRISHNA KISHORE</div>
                 <div class="student-prn">PRN: 250200194</div>
             </div>
             <style>
